@@ -3,7 +3,7 @@ name = "lab5-metrics"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Joaquinmendez2002-maker",email = "joaquinmendez2002@icloud.com"}
+    {name = "Santiagoacostazamora",email = "Oacostaz@ucvvitual.edu.pe"}
 ]
 requires-python = ">=3.14"
 dependencies = [
@@ -11,7 +11,8 @@ dependencies = [
     "matplotlib (>=3.10.9,<4.0.0)",
     "opencv-python (>=4.13.0.92,<5.0.0.0)",
     "fastapi (>=0.136.1,<0.137.0)",
-    "uvicorn (>=0.46.0,<0.47.0)"
+    "uvicorn (>=0.46.0,<0.47.0)",
+    "python-multipart (>=0.0.27,<0.0.28)"
 ]
 
 
