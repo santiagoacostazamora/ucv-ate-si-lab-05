@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ucv-ate-si-lab-05
 
 ## Descripción
@@ -129,3 +130,6 @@ Si deseas contribuir:
 ## Licencia
 
 Este proyecto es de uso académico y no tiene una licencia específica asignada.
+=======
+# Ucv-ate-si-lab-05
+>>>>>>> 65f053609e25022061fd799b845bb74c2745720b
