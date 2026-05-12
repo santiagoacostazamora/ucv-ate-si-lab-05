@@ -6,4 +6,4 @@ def test_metrics():
     analyzer = ImageMetrics()
     result = analyzer.calcular_metricas(img)
 
-    assert result["mean"] == 0.0
+    assert np.isclose(result["mean"], 0.0)
